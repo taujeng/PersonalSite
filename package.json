@@ -1,0 +1,22 @@
+{
+  "name": "personalsite",
+  "version": "1.0.0",
+  "description": "Tau's personal site",
+  "main": "\u001b[D\u001b[C\u001b[\u001b[C\u001bapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taujeng/PersonalSite.git"
+  },
+  "author": "Tau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taujeng/PersonalSite/issues"
+  },
+  "homepage": "https://github.com/taujeng/PersonalSite#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
