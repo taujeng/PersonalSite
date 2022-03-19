@@ -24,7 +24,6 @@
 
 /* Header Buttons  */
 .pop {
-  font-family: 'Hubballi', cursive;
   position: relative;
   cursor: pointer;
   -webkit-user-select: none;
@@ -34,6 +33,7 @@
 }
 
 .pop-up {
+  font-family: 'Hubballi', cursive;
   visibility: hidden;
   width: 250px;
   height: 30px;
